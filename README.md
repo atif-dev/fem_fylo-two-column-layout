@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Frontend Mentor - Fylo landing page with two column layout
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Design preview for the Fylo landing page with two column layout challenge](./design/desktop-preview.jpg)
 
-## Available Scripts
+## Welcome! 👋
 
-In the project directory, you can run:
+This is a solution to the [Fylo landing page with two column layout challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### `npm start`
+## Table of contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
+  - [Links](#links)
+  - [My process](#my-process)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Overview
 
-### `npm test`
+### The challenge
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Users should be able to:
 
-### `npm run build`
+- View the optimal layout for the interface depending on their device's screen size
+- See hover states for all interactive elements on the page
+- See error message for invalid Email input
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![PC View](https://github.com/atif-dev/fem_fylo-two-column-layout/blob/main/screenshots/desktop%201.png?raw=true)
+![Mobile view](https://github.com/atif-dev/fem_fylo-two-column-layout/blob/main/screenshots/mobile%201.png?raw=true)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Links
 
-### `npm run eject`
+- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-kJxiE1Llm-
+- Live Site URL: https://atif-dev.github.io/fem_huddle-landing-page/
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=tX9n5HrIpdG_DKb87ISSvQ
+- GitHub repo : https://github.com/atif-dev/fem_fylo-two-column-layout
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## My process
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - Used existing knowledge.
+  - New thing: React implementation
+  - ChatGPT for a React error
+  - Collaborate with a friend for email validation in React.
+  - Google for finding about React app deployment using GitHub.
+  - Used LT browser for checking responsiveness.
+    
+### Continued development
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  Will complete more frontendmentor challenges... 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Useful resources
 
-## Learn More
+- [CSS flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Nice visual representation to understand CSS flexbox 
+- [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - This is nice short free course for learning responsiveness.
+- [Check responsiveness](https://www.lambdatest.com/mobile-view-website) - NICE website for checking responsiveness and taking good looking screen shots.
+- [Desktop app for checking responsiveness](https://responsively.app/) - Download windows application for checking responsiveness.
+- [Learn Resposiveness](https://web.dev/learn/design/) - Find about responsiveness.
+- [Learn centering in css](https://moderncss.dev/complete-guide-to-centering-in-css/) - Learn different possible ways for centering CSS.
+- [SCSS](https://moderncss.dev/complete-guide-to-centering-in-css/) - Learn to use SCSS using terminal.
+- [Deploy React App using GitHub](https://blog.logrocket.com/deploying-react-apps-github-pages/) - Nice article to deploy React app using Github pages.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [atif_devs @ Twitter](https://twitter.com/atif_devs) and [Atif Iqbal @ Linkedin](https://www.linkedin.com/in/atif-iqbal-60b0aa125/). Come, Say Hi. Let's Connect for Learning and Sharing😇
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+----**Be NICE, COLLABORATE and have FUN building!** 🚀😎😇----
